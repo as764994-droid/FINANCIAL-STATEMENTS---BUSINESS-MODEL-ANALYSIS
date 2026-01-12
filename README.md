@@ -111,7 +111,7 @@ This analysis demonstrates:
 
 **Ayush Singh**  
 Financial Consultant Intern | Prasuta Capital  
-[LinkedIn] www.linkedin.com/in/ayush-singh-finance | [GitHub]([your-github-url](https://github.com/as764994-droid/FINANCIAL-STATEMENTS---BUSINESS-MODEL-ANALYSIS.git))
+[LinkedIn](www.linkedin.com/in/ayush-singh-finance) | [GitHub](https://github.com/as764994-droid/FINANCIAL-STATEMENTS---BUSINESS-MODEL-ANALYSIS.git))
 
 ## 📅 Project Timeline
 
